@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  engine: MyText
+  price: 1
+  competition: MyText
+  key_features: MyText
+  personal_output: MyText
+  drivetrain: MyString
+  year: 1
+  changes: MyText
+
+two:
+  name: MyString
+  engine: MyText
+  price: 1
+  competition: MyText
+  key_features: MyText
+  personal_output: MyText
+  drivetrain: MyString
+  year: 1
+  changes: MyText
